@@ -28,11 +28,14 @@
       }
 
       :root {
-        --light-gray-color: hsl(212, 45%, 89%);
-        --gray-color: #7d889e;
+        /* Colors */
         --white: hsl(0, 0%, 100%);
+        --light-gray: hsl(212, 45%, 89%);
+        --grayish-blue: hsl(220, 15%, 55%);
+        --dark-blue: hsl(218, 44%, 22%);
+
         font-family: "Outfit", sans-serif;
-        background-color: var(--light-gray-color);
+        background-color: var(--light-gray);
       }
 
       .center-screen {
@@ -59,12 +62,13 @@
       }
 
       .heading {
+        color: var(--dark-blue);
         font-size: 22px;
         margin: 24px 16px 0px 16px;
       }
 
       .paragraph {
-        color: var(--gray-color);
+        color: var(--grayish-blue);
         font-size: 15px;
         margin: 16px 32px 40px 32px;
       }
