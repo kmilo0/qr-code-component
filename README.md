@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# QR code component
 
 I got [this design from frontendmentor.io](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) and then I created my own markup.
 
