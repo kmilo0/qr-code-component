@@ -27,7 +27,7 @@
 .image {
   border-radius: 10px;
   width: 288px;
-  margin: 16px 16px 0px 16px;
+  margin: 16px auto 0px auto;
 }
 
 .heading {
